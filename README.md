@@ -10,9 +10,17 @@ This project implements an AI agent that automates the analysis of DSA submissio
 
 ## Assignment Information
 
-**Name**: [Your Name]  
-**University**: [Your University]  
-**Department**: [Your Department]
+**Developer**: Himanshu Shete  
+**University**: Indian Institute of Technology (IIT) Bombay  
+**Department**: Civil Engineering (B.Tech)  
+**Batch**: 2027  
+**Roll No**: 23B0770
+
+**Contact**:
+- 📧 Email: hmshete12@gmail.com
+- 🔗 GitHub: [https://github.com/himu23](https://github.com/himu23)
+- 💼 LinkedIn: [https://www.linkedin.com/in/himanshete/](https://www.linkedin.com/in/himanshete/)
+- 🌐 Portfolio: [https://himu23.github.io](https://himu23.github.io)
 
 **Assignments Completed**:
 1. **Software Engineering Assignment**: AI Agent Prototype with reasoning, planning, and execution
@@ -269,5 +277,6 @@ ISC
 
 For questions or issues, please refer to the assignment submission requirements.
 
-#   d s a _ p r e p _ a g e n t  
+#   d s a _ p r e p _ a g e n t 
+ 
  

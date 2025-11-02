@@ -260,19 +260,45 @@ Codeforces API → Submissions → Analyzer → Analysis → Planner → Recomme
 
 ## User Interface Design
 
-### Chat Interface
-- **Purpose**: General DSA questions and assistance
-- **Design**: Simple input/output interface
-- **UX Features**: Loading states, error handling, clear feedback
+### Design Philosophy
+The UI is designed with **modern UX principles** focusing on:
+- **Visual Hierarchy**: Clear primary action (recommendations) on main page
+- **Accessibility**: Easy-to-read fonts, high contrast, keyboard navigation
+- **Responsiveness**: Works on various screen sizes
+- **Feedback**: Loading states, error messages, success indicators
+- **Aesthetics**: Modern gradient design, smooth animations, professional appearance
 
-### Recommendations Interface
-- **Purpose**: Personalized problem recommendations
-- **Design**: Form input + results display
+### Main Page (Recommendations)
+- **Primary Focus**: DSA recommendations feature prominently
+- **Design**: 
+  - Hero section with gradient background
+  - Large, clear input field for Codeforces handle
+  - Prominent call-to-action button
+  - Cards showing quality metrics with visual indicators
+  - Recommendation cards with hover effects
+  - Info cards explaining features
 - **UX Features**: 
-  - Clear instructions
-  - Loading indicators
-  - Structured recommendation cards
-  - Direct links to problems
+  - Loading animations during analysis
+  - Real-time error feedback
+  - Color-coded difficulty badges
+  - Direct links to Codeforces problems
+  - Responsive grid layout
+
+### Floating Chat Interface
+- **Location**: Bottom-right corner as floating dialog
+- **Design**: 
+  - Circular floating button (60px) with gradient background
+  - Expandable chat dialog (400px width, 500px height)
+  - Conversation-style message bubbles
+  - User messages (right-aligned, purple gradient)
+  - AI messages (left-aligned, white background)
+  - Smooth open/close animations
+- **UX Features**:
+  - Auto-scroll to latest messages
+  - Loading indicator for AI responses
+  - Empty state with helpful guidance
+  - Keyboard support (Enter to send)
+  - Mobile-responsive sizing
 
 ## Operational Features
 
