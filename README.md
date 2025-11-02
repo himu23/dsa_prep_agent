@@ -16,11 +16,6 @@ This project implements an AI agent that automates the analysis of DSA submissio
 **Roll No**: 23B0770  
 **Email**: 23b0770@iitb.ac.in  
 
-**Contact**:
-- 📧 Email: hmshete12@gmail.com
-- 🔗 GitHub: [https://github.com/himu23](https://github.com/himu23)
-- 💼 LinkedIn: [https://www.linkedin.com/in/himanshete/](https://www.linkedin.com/in/himanshete/)
-- 🌐 Portfolio: [https://himu23.github.io](https://himu23.github.io)
 
 **Assignments Completed**:
 1. **Software Engineering Assignment**: AI Agent Prototype with reasoning, planning, and execution
@@ -273,6 +268,8 @@ View evaluation statistics at: `GET /api/evaluation/stats`
 
 ISC
 
-## Contact
-
-For questions or issues, please refer to the assignment submission requirements.
+**Contact**:
+- 📧 Email: hmshete12@gmail.com
+- 🔗 GitHub: [https://github.com/himu23](https://github.com/himu23)
+- 💼 LinkedIn: [https://www.linkedin.com/in/himanshete/](https://www.linkedin.com/in/himanshete/)
+- 🌐 Portfolio: [https://himu23.github.io](https://himu23.github.io)
