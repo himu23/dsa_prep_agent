@@ -1,0 +1,8 @@
+<CONTEXT>
+
+Task: Based on the context above (problem name, tags, verdict), produce a JSON object with:
+- "topics": list of probable topics to practice (e.g., ["dp on trees", "two pointers"])
+- "likely_issue": short text describing why user failed / struggled (e.g., "didn't handle base cases", "used n^2 approach")
+- "difficulty_inference": string like "easy/medium/hard"
+- "recommendation_reason": 1-2 sentence suggestion what to practice next
+Return valid JSON only.

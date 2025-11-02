@@ -1,0 +1,9 @@
+<ANALYSIS>
+
+Task: From the analysis above, produce a JSON object with a "recommendations" array of 5 items.
+Each item must have:
+- "title": short title (problem name or skill)
+- "link": an URL to a relevant Codeforces problem OR a tag-search link `https://codeforces.com/problemset?tags=...&page=1`
+- "difficulty": easy/medium/hard
+- "reason": why this helps the user (1-2 sentences)
+Return valid JSON only.
